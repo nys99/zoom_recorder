@@ -4,7 +4,7 @@ import subprocess
 import pyautogui
 
 cwd = '/home/mrswag/Desktop/SideProjects/zoom_recordings/'
-record_len = 15
+record_len = 3000  # time in seconds to record
 
 def locateAndClick():
     while True:
