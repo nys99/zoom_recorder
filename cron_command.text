@@ -1,0 +1,1 @@
+29 11 * * 1,3,5 /bin/sh /home/mrswag/Desktop/SideProjects/zoom_recordings/run.sh >> /home/mrswag/Desktop/SideProjects/zoom_recordings/log_auto_zoom.log 2>&1
