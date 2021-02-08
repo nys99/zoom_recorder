@@ -46,5 +46,5 @@ export OLDPWD=/home/mrswag/Desktop/SideProjects/zoom_recordings
 export _=/usr/bin/printenv
 
 
-python /home/mrswag/Desktop/SideProjects/zoom_recordings/auto_zoom.py
+python3 /home/mrswag/Desktop/SideProjects/zoom_recordings/auto_zoom.py
 

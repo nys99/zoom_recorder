@@ -15,7 +15,9 @@ def locateAndClick():
 
         print (leave_loc)
 
-        continue_loc = pyautogui.locateCenterOnScreen(f'{cwd}continue_zoom.png', confidence=.7)
+        continue_loc = pyautogui.locateCenterOnScreen(f'{cwd}continue_zoom.png', confidence=.5)
+
+        print (continue_loc)
 
         pyautogui.click(continue_loc)
         break
