@@ -1,6 +1,5 @@
 auto_zoom.log
-os_lecture.mp4
-out.mp4
+*.mp4
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
